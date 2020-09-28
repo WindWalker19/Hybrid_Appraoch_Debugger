@@ -1,0 +1,15 @@
+Program_name : pi.c
+
+Function_Name				Min_runtime					Max_runtime    						calls
+_pro5						2							3									1
+_dboard						0.02						0.08								100
+_sumup						0.00						0.05								1
+
+
+Actual_Runtime				Actual_calls				Result
+
+2.87							1.0							Result
+
+0.06							100.0							Result
+
+0.0							1.0							Resulthi
